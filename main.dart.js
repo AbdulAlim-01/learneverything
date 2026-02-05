@@ -87527,7 +87527,7 @@ s=p}while(true)switch(s){case 0:if(n.Q.length>=3){n.l2("You can only upload up t
 s=1
 break}p=4
 s=7
-return A.H(A.aP5().auc(!0,A.b(["jpg","jpeg","png","pdf"],t.s),B.GG,!0),$async$yV)
+return A.H(A.aP5().auc(!0,B.GG,!0),$async$yV)
 case 7:m=b
 p=2
 s=6
@@ -87668,7 +87668,7 @@ H(a){var s=this,r=null,q=A.ew(r,r,r,B.Hu,r,r,new A.apK(),r,r,r,r),p=t.p,o=A.bV(A
 o=A.Jr(A.b([A.ew(r,r,r,B.Ho,r,r,new A.apL(),r,r,r,r),B.lx],p),B.i,r,!0,0,r,q,o)
 q=s.f
 q===$&&A.a()
-return A.k0(o,B.i,A.hM(!0,A.qI(A.bI(A.b([B.U8,A.bI(A.b([B.ZN,A.bV(A.b([new A.dJ(q,!1,A.aP(s.r[s.w],r,r,r,r,B.Yh,r,r),r),B.AE,A.aAz(-0.7853981633974483,B.Hr)],p),B.r,B.aU,B.q)],p),B.r,B.w,B.q,B.C),B.ch,A.aP("Step-by-step explanation for any topic ",r,r,r,r,A.c8(r,r,B.ds,r,r,r,r,r,r,r,r,16,r,r,B.t,r,r,!0,r,r,r,r,r,r,r,r),B.aW,r),B.iw,s.a5A(),B.ch,A.bI(A.b([A.aP("Upload up to 3 files (JPG, PNG, PDF, DOCX, PPTX)",r,r,r,r,A.c8(r,r,B.ds,r,r,r,r,r,r,r,r,12,r,r,r,r,1.5,!0,r,r,r,r,r,r,r,r),r,r),A.aP("Max limit per file: 10MB",r,r,r,r,A.c8(r,r,B.ds,r,r,r,r,r,r,r,r,12,r,r,r,r,1.5,!0,r,r,r,r,r,r,r,r),r,r)],p),B.az,B.w,B.q,B.C),B.iw],p),B.bs,B.w,B.q,B.C),r,B.A,B.Gn,r,B.ae),B.T,!0),r,r,r)},
+return A.k0(o,B.i,A.hM(!0,A.qI(A.bI(A.b([B.U8,A.bI(A.b([B.ZN,A.bV(A.b([new A.dJ(q,!1,A.aP(s.r[s.w],r,r,r,r,B.Yh,r,r),r),B.AE,A.aAz(-0.7853981633974483,B.Hr)],p),B.r,B.aU,B.q)],p),B.r,B.w,B.q,B.C),B.ch,A.aP("Step-by-step explanation for any topic ",r,r,r,r,A.c8(r,r,B.ds,r,r,r,r,r,r,r,r,16,r,r,B.t,r,r,!0,r,r,r,r,r,r,r,r),B.aW,r),B.iw,s.a5A(),B.ch,A.bI(A.b([A.aP("Upload up to 3 Images",r,r,r,r,A.c8(r,r,B.ds,r,r,r,r,r,r,r,r,12,r,r,r,r,1.5,!0,r,r,r,r,r,r,r,r),r,r),A.aP("Max limit per file: 5MB",r,r,r,r,A.c8(r,r,B.ds,r,r,r,r,r,r,r,r,12,r,r,r,r,1.5,!0,r,r,r,r,r,r,r,r),r,r)],p),B.az,B.w,B.q,B.C),B.iw],p),B.bs,B.w,B.q,B.C),r,B.A,B.Gn,r,B.ae),B.T,!0),r,r,r)},
 a5A(){var s,r,q,p,o=this,n=null,m=A.bL(24),l=A.jy(B.cr,1),k=A.b([new A.d6(0,B.bF,A.az(13,B.k.gm(0)>>>16&255,B.k.gm(0)>>>8&255,B.k.gm(0)&255),B.MP,15)],t.sq),j=t.p,i=A.b([],j),h=o.Q
 if(h.length!==0||o.as){h=new A.Aj(h,A.a0(h).i("Aj<1>"))
 h=A.ab(h.geJ(h).ic(0,new A.apr(o),t.dT).fu(0),!0,t.l7)
@@ -95347,7 +95347,7 @@ B.hx=new A.kS(!1,!1,!1,!1)
 B.hy=new A.kS(!1,!1,!1,!0)
 B.k4=new A.kS(!0,!1,!1,!1)
 B.k5=new A.kS(!0,!1,!1,!0)
-B.GG=new A.a5B(5,"custom")
+B.GG=new A.a5B(0,"any")
 B.GH=new A.zo(null)
 B.hz=new A.p6(0,"none")
 B.hA=new A.p6(1,"low")
